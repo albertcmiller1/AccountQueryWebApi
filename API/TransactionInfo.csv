@@ -1,0 +1,20 @@
+Date,Description,Check Number,Amount,Balance,TransactionType
+5/4/2019,Technivation - Reimbursement,,$40.00 ,"$12,354.43 ",Reimbursement
+5/4/2019,Transfer,,"($1,000.00)","$11,354.43 ",Transfer
+5/5/2019,T-Mobile Payment,,($80.46),"$11,273.97 ",Payment
+5/5/2019,CHECK # 1001,1001,($86.75),"$11,187.22 ",Check
+5/5/2019,CHECK # 1003,1003,($98.00),"$11,089.22 ",Check
+5/5/2019,CHECK # 1002,1002,($106.98),"$10,982.24 ",Check
+5/6/2019,AT&T Payment,,($47.67),"$10,934.57 ",Payment
+5/6/2019,CHECK # 1004,1004,($48.87),"$10,885.70 ",Check
+5/11/2019,Q-Trip - Tulsa,,($43.70),"$10,842.00 ",Card
+5/11/2019,Micky Mantel Stake House,,($326.37),"$10,515.63 ",Card
+5/12/2019,Transfer - Checking to Savings,,($500.00),"$10,015.63 ",Transfer
+5/14/2019,Transfer - Checking to CreditCard,,($300.00),"$9,715.63 ",Transfer
+5/15/2019,Payroll / ACH Deposit Technivation,,"$3,886.66 ","$13,602.29 ",Payroll
+5/19/2019,CHECK # 1005,1005,($130.00),"$13,472.29 ",Check
+5/21/2019,Credit Card Payment,,"($2,000.00)","$11,472.29 ",Card
+5/21/2019,Transfer - Checking to IRA,,"($1,500.00)","$9,972.29 ",Transfer
+5/25/2019,CHECK # 1006,1006,($11.99),"$9,960.30 ",Check
+5/25/2019,CHECK # 1007,1007,($98.00),"$9,862.30 ",Check
+5/25/2019,CHECK # 1008,1008,($557.50),"$9,304.80 ",Check
